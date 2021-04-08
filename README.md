@@ -1,8 +1,11 @@
 # SUBSETS of a SET
 
+## Languages:
+   Python, c++, c, ruby, PHP
+
 ## Methods:
 
-* Bitmask
+* Bitmask Operators Logic
 * Backtracking
-* using Stack
-* Iterative with While and [0,0,0]
+* using struct Stack
+* Iterative with control flow While and [0,0,0]
