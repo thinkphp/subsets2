@@ -76,8 +76,8 @@ void display(Stack *stack) {
 int main(int argc, char const *argv[]) {
     int n;
     Stack S;
-    fin = freopen(FIN,"r",stdin);
-    fout = freopen(FOUT,"w",stdout);
+    //fin = freopen(FIN,"r",stdin);
+    //fout = freopen(FOUT,"w",stdout);
     scanf("%d", &n);
     init_stack(&S);
     push(&S, 1);
