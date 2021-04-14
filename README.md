@@ -9,3 +9,8 @@
 * Backtracking
 * using struct Stack
 * Iterative with control flow While and [0,0,0]
+
+
+Demos:
+
+https://ideone.com/ItktLY using Stack Python 3
